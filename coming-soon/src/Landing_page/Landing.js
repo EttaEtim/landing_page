@@ -10,7 +10,7 @@ import './Landing.css'
 const Landing = () => {
   return (
     <div className='Container'>
-      <div className='container-div'>
+      <div className='container-div div1'>
         {/* Logo  */}
         <div className='logo'>
 
@@ -42,7 +42,7 @@ const Landing = () => {
         </div>
       </div>
 
-      <div className='container-div'>
+      <div className='container-div div2'>
 
       </div>
     </div>
