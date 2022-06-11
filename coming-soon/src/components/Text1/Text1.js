@@ -6,7 +6,7 @@ const Text1 = () => {
     <div className='Text1'>
     <h3>Stay Tuned <br /> Our New Website Is</h3>
     <br />
-    <h1>COMING SOON!</h1>
+    <h1>COMING SOON!!</h1>
   </div>
   )
 }
