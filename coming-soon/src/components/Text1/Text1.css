@@ -1,0 +1,12 @@
+.Text1 h3, h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    }
+    
+    .Text1 h1{
+      font-size: 3rem;
+      color: #0F2027;
+    }
+    
+    .Text1 h3{
+      font-weight:400;
+    }
